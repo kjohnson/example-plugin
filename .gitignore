@@ -1,0 +1,15 @@
+# Node Package Manager (NPM)
+node_modules
+
+# Composer Dependency Manager
+vendor
+
+# phpStorm
+.idea
+
+# SublimeText
+*.sublime-workspace
+*.sublime-project
+
+# Project
+deploy.sh
